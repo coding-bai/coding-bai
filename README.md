@@ -2,7 +2,7 @@
 
 [![coding-bai's github stats](https://github-readme-stats.vercel.app/api?username=coding-bai&show_icons=true&theme=algolia)](http://coding-bai.site/)
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coding-bai)](http://coding-bai.site/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coding-bai&layout=compact)](http://coding-bai.site/)
 ---
 [![fe_interview](https://github-readme-stats.vercel.app/api/pin/?username=coding-bai&repo=fe_interview&theme=prussian&show_icons=true)](https://github.com/coding-bai/fe_interview)
 [![Sank-in-FrontEnd](https://github-readme-stats.vercel.app/api/pin/?username=coding-bai&repo=Sank-in-FrontEnd&theme=react&show_icons=true)](https://github.com/coding-bai/Sank-in-FrontEnd)
