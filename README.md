@@ -5,7 +5,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coding-bai&layout=compact)](http://coding-bai.site/)
 ---
 [![fe_interview](https://github-readme-stats.vercel.app/api/pin/?username=coding-bai&repo=fe_interview&theme=prussian&show_icons=true)](https://github.com/coding-bai/fe_interview)
-[![Sank-in-FrontEnd](https://github-readme-stats.vercel.app/api/pin/?username=coding-bai&repo=Sank-in-FrontEnd&theme=react&show_icons=true)](https://github.com/coding-bai/Sank-in-FrontEnd)
+[![Sank-in-React](https://github-readme-stats.vercel.app/api/pin/?username=coding-bai&repo=Sank-in-React&theme=react&show_icons=true)](https://github.com/coding-bai/Sank-in-React)
 [![free-note](https://github-readme-stats.vercel.app/api/pin/?username=coding-bai&repo=free-note&theme=vue-dark&show_icons=true)](https://github.com/coding-bai/free-note)
 [![smartLab](https://github-readme-stats.vercel.app/api/pin/?username=coding-bai&repo=smartLab&theme=blueberry&show_icons=true)](https://github.com/coding-bai/smartLab)
 [![Housekeeper-admin](https://github-readme-stats.vercel.app/api/pin/?username=coding-bai&repo=Housekeeper-admin&theme=react&show_icons=true)](https://github.com/coding-bai/Housekeeper-admin)
