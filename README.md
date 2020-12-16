@@ -1,4 +1,6 @@
-# coding-bai的代码库
+# coding-bai的仓库🗃
+
+[👀掘金主页--前端文案馆](https://juejin.cn/user/870468941264270/posts)
 
 [![coding-bai's github stats](https://github-readme-stats.vercel.app/api?username=coding-bai&show_icons=true&theme=algolia)](http://coding-bai.site/)
 ---
